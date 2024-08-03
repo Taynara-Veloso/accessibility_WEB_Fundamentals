@@ -16,7 +16,7 @@ export default function RootLayout({
   }, [])
 
   return (
-    <html lang="en">
+    <html lang="pt-BR">
       <title>Accessibility-WEB</title>
       <body className={inter.className}>{children}</body>
     </html>
