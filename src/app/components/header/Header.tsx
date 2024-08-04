@@ -16,21 +16,21 @@ export function Header() {
             <button type='button' 
               aria-label="Página inicial" 
               className='bg-[#8257e5] rounded-t-md pt-4 px-6'>
-                Home
+                Inicio
             </button>
           </a>
           <a href="https://www.w3.org/WAI/tutorials/" aria-label="Para saber mais sobre acessibilidade acesse o site da W3C">
           <button type='button' 
               aria-label="Página inicial" 
               className='bg-[#8257e5]  rounded-t-md pt-4 px-6'>
-                Documentation
+                Documentação
             </button>
           </a>
           <a href="https://www.w3.org/WAI/tutorials/" aria-label="Acesse os tutoriais de acessibilidade">
             <button type='button' 
               aria-label="Página inicial" 
               className='bg-[#8257e5]  rounded-t-md pt-4 px-6'>
-                Guides
+                Guias
             </button>
           </a>
         </nav>
