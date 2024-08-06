@@ -7,6 +7,7 @@ Ferramentas Utilizadas No Projeto
 - TypeScript
 - Next.js
 - Tailwind
+- Flowbite
 - Lucide
 - @axe-core/react
 - Ilustração Storyset
