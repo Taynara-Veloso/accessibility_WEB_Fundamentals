@@ -20,14 +20,14 @@ export function Header() {
                 Inicio
             </button>
           </a>
-          <a href="https://www.w3.org/WAI/tutorials/" aria-label="Para saber mais sobre acessibilidade acesse o site da W3C">
+          <a href="https://www.w3.org/WAI/fundamentals/" target='blank' aria-label="Para saber mais sobre acessibilidade acesse o site da W3C">
           <button type='button' 
               aria-label="Página inicial" 
               className='bg-[#8257e5]  rounded-t-md pt-4 px-6'>
                 Documentação
             </button>
           </a>
-          <a href="https://www.w3.org/WAI/tutorials/" aria-label="Acesse os tutoriais de acessibilidade">
+          <a href="https://www.w3.org/WAI/tutorials/" target='blank' aria-label="Acesse os tutoriais de acessibilidade">
             <button type='button' 
               aria-label="Página inicial" 
               className='bg-[#8257e5]  rounded-t-md pt-4 px-6'>
