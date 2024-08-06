@@ -6,11 +6,12 @@ export function Header() {
   return (
     <header className="flex shadow-shape h-20">
       <div className="flex items-center justify-between m-auto max-w-5xl w-full px-4">
-        <Image
+        {/* <Image
         src={Logo}
         width={286 / 2}
         alt="Blog da Rocketseat"
-        />
+        /> */}
+        <h1 className="text-2xl text-[#8257e5] font-extrabold">BLOG A11y</h1>
         <nav className='flex h-20 items-end content-end flex-wrap gap-4 text-zinc-50'>
           <a href="#" aria-label="Para saber mais sobre acessibilidade acesse o site da W3C">
             <button type='button' 
