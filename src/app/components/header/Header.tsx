@@ -13,24 +13,24 @@ export function Header() {
         /> */}
         <h1 className="text-2xl text-[#8257e5] font-extrabold">BLOG A11y</h1>
         <nav className='flex h-20 items-end content-end flex-wrap gap-4 text-zinc-50'>
-          <a href="#" aria-label="Para saber mais sobre acessibilidade acesse o site da W3C">
+          <a href="/" aria-label="Para saber mais sobre acessibilidade acesse o site da W3C">
             <button type='button' 
               aria-label="Página inicial" 
-              className='bg-[#8257e5] rounded-t-md pt-4 px-6'>
+              className='bg-[#8257e5] text-2xl rounded-t-md pt-4 px-6'>
                 Inicio
             </button>
           </a>
           <a href="https://www.w3.org/WAI/fundamentals/" target='blank' aria-label="Para saber mais sobre acessibilidade acesse o site da W3C">
           <button type='button' 
               aria-label="Página inicial" 
-              className='bg-[#8257e5]  rounded-t-md pt-4 px-6'>
+              className='bg-[#8257e5] text-2xl  rounded-t-md pt-4 px-6'>
                 Documentação
             </button>
           </a>
-          <a href="https://www.w3.org/WAI/tutorials/" target='blank' aria-label="Acesse os tutoriais de acessibilidade">
+          <a href="./Tutorials" aria-label="Acesse os tutoriais de acessibilidade">
             <button type='button' 
               aria-label="Página inicial" 
-              className='bg-[#8257e5]  rounded-t-md pt-4 px-6'>
+              className='bg-[#8257e5] text-2xl  rounded-t-md pt-4 px-6'>
                 Guias
             </button>
           </a>
