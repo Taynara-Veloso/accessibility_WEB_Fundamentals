@@ -1,14 +1,7 @@
-
 "use client";
 
 import { Sidebar } from "flowbite-react";
-import { HiArrowSmRight, HiChartPie, 
-         HiInbox, HiShoppingBag, 
-         HiTable, HiUser, 
-         HiMenu,
-         HiChartBar,
-} from "react-icons/hi";
-
+import { HiChartBar,} from "react-icons/hi";
 import { TiThMenu } from "react-icons/ti";
 import { FaImage, FaWpforms  } from "react-icons/fa";
 import { FaTableList } from "react-icons/fa6";
