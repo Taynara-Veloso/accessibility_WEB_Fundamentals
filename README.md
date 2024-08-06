@@ -9,4 +9,8 @@ Ferramentas Utilizadas No Projeto
 - Tailwind
 - Lucide
 - @axe-core/react
+- Ilustração Storyset
 
+> O poder da Web está em sua universalidade. O acesso de todos, independentemente da deficiência, é um aspecto essencial.
+*- TIM BERNERS-LEE (Criador da WEB)*
+ 
